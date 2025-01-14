@@ -2,6 +2,7 @@ import streamlit as st
 from langchain_ollama import OllamaLLM  # Imported from Ollama
 from langchain_core.prompts import ChatPromptTemplate  # To easily assemble chats
 
+
 # Initialize model
 model = OllamaLLM(model="llama3.2")  # The model you are working with
 
