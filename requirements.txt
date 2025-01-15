@@ -1,4 +1,4 @@
 streamlit
-langchain==0.0.187
-langchain-ollama==0.1.0
-httpx==0.24.0
+langchain
+langchain-ollama
+httpx
