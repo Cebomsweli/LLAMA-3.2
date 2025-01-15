@@ -1,5 +1,4 @@
 langchain_ollama
-OllamaLLM
 langchain_core.prompts
 ChatPromptTemplate
 streamlit 
